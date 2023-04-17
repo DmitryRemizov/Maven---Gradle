@@ -1,4 +1,0 @@
-rootProject.name = "GradleExample"
-include("db")
-include("api")
-include("service")
